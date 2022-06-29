@@ -6,5 +6,8 @@ public class Main {
 		
 		// push2
 		System.out.println("222222");
+		
+		// push3
+		System.out.println("333333");
 	}
 }
